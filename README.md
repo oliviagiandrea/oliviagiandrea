@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oliviagiandrea
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning javascript. 
+- 📫 Reach me via email at olivia.giandrea@gmail.com :)
