@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @oliviagiandrea
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning javascript. 
+- 🌱 I’m currently learning the MERN stack!
 - 📫 Reach me via email at olivia.giandrea@gmail.com :)
