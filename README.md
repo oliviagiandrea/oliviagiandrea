@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @oliviagiandrea
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning the MERN stack!
-- 📫 Reach me via email at olivia.giandrea@gmail.com :)
+Hello! Software Engineer for job, sewist/baker/data analyst for fun. 
