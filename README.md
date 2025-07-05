@@ -1,1 +1,1 @@
-Hello! Software Engineer for job, sewist/baker/data analyst for fun. 
+Hello! Software Engineer for job, sewist for fun. 
